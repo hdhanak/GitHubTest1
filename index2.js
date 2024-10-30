@@ -1,1 +1,1 @@
-console.log("Starting of git hub-2 cmd test")
+console.log("Starting of git hub-2 cmd test master branch")
